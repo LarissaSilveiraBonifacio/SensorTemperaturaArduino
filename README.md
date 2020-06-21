@@ -11,5 +11,6 @@ Aqui esta uma algumas imagens da montagem complicadas
 PDF com todas as imagens 
 
 
- O Hardware detalhado com imagens esta no pdf acima 
+ O Hardware detalhado com imagens e o Fluxograma do projeto [Materiais.docx.pdf](https://github.com/LarissaSilveiraBonifacio/SensorTemperaturaArduino/files/4808987/Materiais.docx.pdf)
+
 
