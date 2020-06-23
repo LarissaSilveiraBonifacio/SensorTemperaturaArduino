@@ -16,10 +16,9 @@ E um video bem basico no [Youtube](https://youtu.be/5uSfAwa53KQ)
  [Materiais.docx.pdf](https://github.com/LarissaSilveiraBonifacio/SensorTemperaturaArduino/files/4808987/Materiais.docx.pdf)
  
  
-Aqui está uma algumas imagens da montagem complicadas
+Esquema Node-Red 
 
-
- ![WhatsApp Image 2020-06-21 at 03 03 57](https://user-images.githubusercontent.com/48017842/85217947-ebf81c80-b36b-11ea-858a-abdf4d67fdc9.jpeg)
+![WhatsApp Image 2020-06-22 at 21 57 15 (1)](https://user-images.githubusercontent.com/48017842/85349228-4f9d5980-b4d4-11ea-8136-89c4706e5721.jpeg)
 
 
 
