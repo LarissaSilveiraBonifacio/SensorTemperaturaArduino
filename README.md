@@ -9,7 +9,8 @@ O codigo  com protocolo Firmata esta disponivel na branch master (CodigoComFirma
 E um video bem basico no [Youtube](https://youtu.be/5uSfAwa53KQ)
 
 ## PDF com todas as imagens da montagem 
-[Imagens -2.pdf](https://github.com/LarissaSilveiraBonifacio/SensorTemperaturaArduino/files/4819555/Imagens.-2.pdf)
+[Imagens .pdf](https://github.com/LarissaSilveiraBonifacio/SensorTemperaturaArduino/files/4840917/Imagens.pdf)
+
 
 
  ## O Hardware detalhado com imagens e o Fluxograma do projeto 
