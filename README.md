@@ -17,7 +17,7 @@ E um video bem basico no [Youtube](https://youtu.be/5uSfAwa53KQ)
  
  
 ## Esquema Node-Red 
-
+O arquivo .json do Node-Red esta na brand master (flows.json)
 ![WhatsApp Image 2020-06-22 at 21 57 15 (1)](https://user-images.githubusercontent.com/48017842/85349228-4f9d5980-b4d4-11ea-8136-89c4706e5721.jpeg)
 
 
