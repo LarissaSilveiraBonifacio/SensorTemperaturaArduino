@@ -5,7 +5,7 @@ O circuito capta a temperatura do ambiente atraves do sensor TM 35,se esta tempe
 
 Este projeto foi desenvolvido no [Software do Arduino](https://www.arduino.cc/en/main/software), com o [Protocolo Firmata](http://firmata.org/wiki/Main_Page), o [Protocolo MQTT](http://mqtt.org) e com o [Node-Red](https://nodered.org)
 
-O codigo esta disponivel na branch master (Trabalho.ino), o codigo foi baseado no Standard Firmata,exemplo que voce encontra no Arduino e a minha logica de programação. 
+O codigo  com protocolo Firmata esta disponivel na branch master (CodigoComFirmata), o codigo foi baseado no Standard Firmata,exemplo que voce encontra no Arduino e a minha logica de programação, mas tambem há o codigo sem o Protocolo Firamata (CodigoSemFirmata)
 E um video bem basico no [Youtube](https://youtu.be/5uSfAwa53KQ)
 
 ## PDF com todas as imagens da montagem 
