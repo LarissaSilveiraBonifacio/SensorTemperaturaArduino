@@ -13,7 +13,7 @@ E um video bem basico no [Youtube](https://youtu.be/5uSfAwa53KQ)
 
 
  ## O Hardware detalhado com imagens e o Fluxograma do projeto 
- [Materiais.docx.pdf](https://github.com/LarissaSilveiraBonifacio/SensorTemperaturaArduino/files/4808987/Materiais.docx.pdf)
+ [Materiais.docx-2.pdf](https://github.com/LarissaSilveiraBonifacio/SensorTemperaturaArduino/files/4839878/Materiais.docx-2.pdf)
  
  
 ## Esquema Node-Red 
